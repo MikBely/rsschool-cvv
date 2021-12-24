@@ -19,3 +19,57 @@
 ### About myself
 
 Hello, I improve myself in the few fields such as programming, fitness and social relationship. I have a some experience in the HTML,CSS and Native JS. I'm very flexible, hardworking and self- confident man. I will achieve the new tops, if it needs.
+
+---
+
+### My skils
+
+- HTML
+- CSS
+- Java Script
+- SQL (on basic level)
+- Git
+- Microsoft office
+
+---
+
+### Code example
+
+'''
+let mapHeads=[];
+let wordsMap = new Map();
+let arrFromMapKeys=[];
+let aclean= function(arr){
+for(let i=0;i<arr.length;i++){ mapHeads[i]=arr[i].split('').sort().join('').toLowerCase();  
+ wordsMap.set(mapHeads[i],arr[i]);
+
+}
+for(let value of wordsMap.values()){
+arrFromMapKeys.push(value);
+}
+alert(arrFromMapKeys);
+}
+let arr1 = ["nap", "teachers", "cheaters", "PAN", "ear", "era", "hectares"];
+aclean(arr1);  
+'''
+
+---
+
+### Experience
+
+---
+
+### Education
+
+_Belarusian State University, Faculty of Mechanics and Mathematic_
+
+**_Courses:_**
+
+1. [Udemi]()
+2. JS/Front-End[Rolling Scopes School](https://rs.school/)
+
+---
+
+### English
+
+A2+ (I haven't spoken with native speakers yet)
