@@ -35,12 +35,12 @@ Hello, I improve myself in the few fields such as programming, fitness and socia
 
 ### Code example
 
-'''
+```
 let mapHeads=[];
 let wordsMap = new Map();
 let arrFromMapKeys=[];
 let aclean= function(arr){
-for(let i=0;i<arr.length;i++){ mapHeads[i]=arr[i].split('').sort().join('').toLowerCase();  
+for(let i=0;i<arr.length;i++){ mapHeads[i]=arr[i].split('').sort().join('').toLowerCase();
  wordsMap.set(mapHeads[i],arr[i]);
 
 }
@@ -50,8 +50,8 @@ arrFromMapKeys.push(value);
 alert(arrFromMapKeys);
 }
 let arr1 = ["nap", "teachers", "cheaters", "PAN", "ear", "era", "hectares"];
-aclean(arr1);  
-'''
+aclean(arr1);
+```
 
 ---
 
@@ -65,7 +65,7 @@ _Belarusian State University, Faculty of Mechanics and Mathematic_
 
 **_Courses:_**
 
-1. [Udemi]()
+1. [Udemi](https://www.udemy.com/course/javascript_full/)
 2. JS/Front-End[Rolling Scopes School](https://rs.school/)
 
 ---
