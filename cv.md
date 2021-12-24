@@ -4,11 +4,13 @@
 
 ### Contact information:
 
-**Phone:** +375291326316.
-**E-mail:** neverdream40@gmail.com.
-**Telegram:** @musicianGod
-**Location:** Minsk,Belarus
+**Phone:** _+375291326316._
+**E-mail:** _neverdream40@gmail.com._
+**Telegram:** _@musicianGod_
+**Location:** _Minsk,Belarus_
 **_GitHub:_** [MikBely](https://github.com/mikbely/).
+
+---
 
 ### About myself
 
