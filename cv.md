@@ -66,7 +66,7 @@ _Belarusian State University, Faculty of Mechanics and Mathematic_
 **_Courses:_**
 
 1. [Udemi](https://www.udemy.com/course/javascript_full/)
-2. JS/Front-End [Rolling Scopes School](https://rs.school/)
+2. JS/Front-End from [Rolling Scopes School](https://rs.school/)
 
 ---
 
