@@ -7,31 +7,33 @@
   width: 1300px;
   margin-left: auto;
   margin-right: auto;
-  background: linear-gradient(45deg, #eef0ea, #acce32);
+  background: #c8a35f;
 }
 .navigation {
   height: 50px;
-  width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 700px;
+  margin-left: 600px;
   padding-top: 5px;
+  font-size: 14px;
 }
 .anchors li {
   float: left;
   list-style-type: none;
-  padding-left: 30px;
+  padding-left: 20px;
 }
 .anchors li a {
   text-decoration: none;
   color: #7a1b38;
   text-transform: uppercase;
+  font-family: "Roboto", serif;
+  color: #fff;
 }
 .who {
   width: 1300px;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  background-image: url(45degreee_fabric.png);
+  background-color: #2f343a;
 }
 .who::after {
   clear: both;
@@ -41,24 +43,31 @@
   height: 0;
 }
 .photo img {
-  margin-left: 300px;
   float: left;
   border-radius: 50%;
+  margin: 10px 0 10px 300px;
 }
 .basic-name-line {
   size: 3px;
 }
 .main-content-name {
   float: left;
-  margin-left: 200px;
+  margin-left: 300px;
 }
 .who-name {
   text-transform: uppercase;
-  font-family: Impact;
-  letter-spacing: 0.1cm;
-  font-size: 40px;
+  letter-spacing: 0.05em;
+  font-size: 50px;
+  color: #fff;
+  font-family: "Roboto", serif;
+  margin-block-start: 0.43em;
+  margin-block-end: 0.43em;
+  margin-top: 40px;
+  font-style: italic;
 }
 .who-name-description {
   font-variant: small-caps;
   font-style: italic;
+  color: #fff;
+  margin-top: 20px;
 }
