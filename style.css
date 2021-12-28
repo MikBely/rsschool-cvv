@@ -26,7 +26,7 @@
   color: #7a1b38;
   text-transform: uppercase;
 }
-/*.who {
+.who {
   width: 1300px;
   margin-left: auto;
   margin-right: auto;
@@ -43,12 +43,22 @@
 .photo img {
   margin-left: 300px;
   float: left;
+  border-radius: 50%;
 }
-.basic-name-line{
-
+.basic-name-line {
+  size: 3px;
 }
 .main-content-name {
   float: left;
   margin-left: 200px;
 }
-*/
+.who-name {
+  text-transform: uppercase;
+  font-family: Impact;
+  letter-spacing: 0.1cm;
+  font-size: 40px;
+}
+.who-name-description {
+  font-variant: small-caps;
+  font-style: italic;
+}
