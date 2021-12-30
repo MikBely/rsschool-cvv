@@ -1,3 +1,8 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 .wrapper {
   margin-left: auto;
   margin-right: auto;
@@ -100,7 +105,7 @@
 }
 .contacts-ul ul {
   padding-inline-start: 0;
-  margin-bottom: 28px;
+  margin-bottom: 29px;
   margin-left: 15px;
 }
 .contacts-ul li {
@@ -119,8 +124,8 @@
 #contacts-block hr {
   color: gold;
   background-color: gold;
-  height: 1px;
-  width: 300px;
+  height: 2px;
+  width: 350px;
   margin-top: 30px;
   margin-block-start: 0;
   margin-block-end: 0;
@@ -137,7 +142,7 @@
 #about-block hr {
   color: gold;
   background-color: gold;
-  height: 1px;
+  height: 2px;
   width: 400px;
   margin-top: 30px;
   margin-block-start: 0;
@@ -148,14 +153,13 @@
 #my-skills-block hr {
   color: gold;
   background-color: gold;
-  height: 1px;
-  width: 300px;
-
+  height: 2px;
+  width: 350px;
   margin-block-start: 0;
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
-  margin-top: 56px;
+  margin-top: 58px;
 }
 .skills-ul ul {
   padding-inline-start: 0;
@@ -182,11 +186,62 @@ pre {
 #code-example-block hr {
   color: gold;
   background-color: gold;
-  height: 1px;
-  width: 300px;
+  height: 2px;
+  width: 400px;
   margin-block-start: 0;
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
-  margin: 20px 0 0 0;
+  margin: 22px 0 0 5px;
+}
+.experience-discription {
+  font-family: "Roboto", serif;
+  color: #fff;
+  font-size: 18px;
+  margin-left: 15px;
+  font-style: italic;
+}
+
+.educ-list {
+  font-family: "Roboto", serif;
+  color: #fff;
+  font-size: 20px;
+  list-style-type: square;
+  font-style: italic;
+  list-style-type: none;
+  margin-right: 10px;
+  padding-inline-start: 20px;
+}
+.educ-list li {
+  padding-bottom: 10px;
+  line-height: 25px;
+}
+.educ-list a {
+  font-family: "Roboto", serif;
+  color: #fff;
+  font-size: 20px;
+  list-style-type: square;
+  font-style: italic;
+  list-style-type: none;
+}
+.footer-container {
+  width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-around;
+  background: #c8a35f;
+}
+.footer-container {
+  padding: 20px 0;
+}
+.creating-year {
+  font-weight: 900;
+  font-size: 91px;
+}
+.rs-app {
+  margin-top: 15px;
+}
+#Layer_1 {
+  width: 200px;
 }
