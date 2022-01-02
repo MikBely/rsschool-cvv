@@ -1,1 +1,7 @@
-https://MikBely.github.io/rsschool-cv/
+
+https://mikbely.github.io/rsschool-cv/cv
+
+
+
+https://mikbely.github.io/rsschool-cv/
+
